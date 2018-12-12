@@ -1,0 +1,13 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 66CE-904B
+
+ Directory of E:\GIT\HelloWorld
+
+12-Dec-18  06:24 PM    <DIR>          .
+12-Dec-18  06:24 PM    <DIR>          ..
+12-Dec-18  06:24 PM               443 dctext.txt
+12-Dec-18  06:24 PM                 0 newfile.txt
+12-Dec-18  05:42 PM               340 readme.txt
+12-Dec-18  06:24 PM                 0 uatbranch.txt
+               4 File(s)            783 bytes
+               2 Dir(s)  427,009,413,120 bytes free
